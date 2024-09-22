@@ -1,4 +1,5 @@
 # Care Anywhere – Mobile Car Repair Shop
+  Care Anywhere is a mobile car repair service operating 24/7 in Dubai, Sharjah, and Ajman in the UAE.
 ## 2022-2023 projects.
 ## Project Overview
 **Care Anywhere** is a mobile car repair service operating 24/7 in Dubai, Sharjah, and Ajman in the UAE. The company offers a fully-equipped van designed to function as a complete mobile workshop. I was responsible for developing the company's website and managing their Google Ads campaigns, which led to significant engagement and customer growth. Unfortunately, due to health issues, I had to step away from the project.
